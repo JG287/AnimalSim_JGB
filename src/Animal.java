@@ -1,4 +1,12 @@
-
+/**
+ * A class that contains varying properties about an Animal. Properties such
+ * as whether or not the animal eats, whether or not it will sleep, it's ID,
+ * and it's location are all found within this class.
+ * 
+ * @author Jose Garcia Balboa
+ * @version 1.0
+ * @since 2020-03-10
+ */
 public abstract class Animal extends RuntimeException {
 	
 	protected int simID;

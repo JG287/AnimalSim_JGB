@@ -1,4 +1,12 @@
-
+/**
+ * A class that simulates the varying properties that pertain to a Brown Bear.
+ * It's subspecies, ID, location, and whether or not it is full or rested are
+ * all found within this class. The Brown Bear can also swim and walk a set distance.
+ * 
+ * @author Jose Garcia Balboa
+ * @version 1.0
+ * @since 2020-03-10
+ */
 public class BrownBear extends Animal implements Walkable, Swimmable {
 
 	private String subSpecies;

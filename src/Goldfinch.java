@@ -1,4 +1,12 @@
-
+/**
+ * A class that simulates the varying properties that pertain to a Goldfinch.
+ * It's wingspan, ID, location, and whether or not it is full or rested are
+ * all found within this class. The Goldfinch can also fly and walk a set distance.
+ * 
+ * @author Jose Garcia Balboa
+ * @version 1.0
+ * @since 2020-03-10
+ */
 public class Goldfinch extends Animal implements Walkable, Flyable {
 
 	private double wingSpan;

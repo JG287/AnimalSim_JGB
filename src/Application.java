@@ -1,3 +1,12 @@
+/**
+ * A class that is used to test the different getters, setters
+ * methods, constructors, and exceptions found throughout the program.
+ * It will run each of these to make sure that they are working correctly.
+ * 
+ * @author Jose Garcia Balboa
+ * @version 1.0
+ * @since 2020-03-10
+ */
 import java.util.Arrays;
 
 public class Application {

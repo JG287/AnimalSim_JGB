@@ -1,4 +1,13 @@
-
+/**
+ * A class that is used to represent the Location of an animal.
+ * Location is determined through the usage of an x coordinate and
+ * y coordinate within a 2 dimensional field or plane. The Location
+ * can also update itself with new x and y coordinates.
+ * 
+ * @author Jose Garcia Balboa
+ * @version 1.0
+ * @since 2020-03-10
+ */
 public class Location {
 
 	private int xCoord;
